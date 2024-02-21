@@ -1,0 +1,29 @@
+<!--
+    [AUTHOR]: Marc Ciruelos Santos
+
+    [DATE]: 13-02-2024
+
+    [DESCRIPTION]: Functions => Example returning a hello message.
+-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Basics JavaScript</title>
+</head>
+<body>
+    <script>
+
+    function greeting(name = "byDefault") {
+        return `Hello ${name}!`;
+        // return "Hello" + name + "!"; --> Classic/old mode.
+    }
+
+    console.log(greeting("Marc"));
+    console.log(greeting()); // --> byDefault
+
+    </script>
+</body>
+</html>
+

@@ -1,0 +1,39 @@
+<!--
+    [AUTHOR]: Marc Ciruelos Santos
+
+    [DATE]: 19-02-2024
+
+    [DESCRIPTION]: forEach loop => It iterates the object attributtes [normal, arrow function]
+-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Basics JavaScript</title>
+</head>
+<body>
+    <script>
+
+    const book = {
+        title: "To Kill a Mockingbird",
+        author: "Harper Lee",
+        release: "11-07-1960"
+    }
+
+    // 1. forEach using Object methods
+    const properties = Object.getOwnPropertyNames(book);
+
+    properties.forEach(name => {
+        let value = Object.getOwnPropertyDescriptor(book, name).value;
+        console.log(`1. The property "${name}" contains "${value}"`);
+    })
+
+    // 2. for (key in object)
+    for (property in book){
+        console.log(`2. The property "${property}" contains "${book[property]}"`);
+    }
+
+    </script>
+</body>
+</html>
