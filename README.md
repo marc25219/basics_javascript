@@ -26,6 +26,7 @@
 - [04.Functions](https://github.com/marc25219/javascript_basics/tree/main/04.Functions)
     - [1.Function](https://github.com/marc25219/javascript_basics/blob/main/04.Functions/1.Function.html):  Functions : Example returning a hello message.
     - [2.Arrow-Function](https://github.com/marc25219/javascript_basics/blob/main/04.Functions/2.Arrow-Function.html):  Example returning a hello message using an arrow function
+    - [3.Callback](https://github.com/marc25219/javascript_basics/blob/main/04.Functions/3.Callback.html):  Example of a callback function
 - [05.Classes](https://github.com/marc25219/javascript_basics/tree/main/05.Classes)
     - [1.Old-mode](https://github.com/marc25219/javascript_basics/blob/main/05.Classes/1.old-mode.html):  Create an Inventory Class : Example using the old mode (Inventory.prototype.method)
     - [2.New-mode](https://github.com/marc25219/javascript_basics/blob/main/05.Classes/2.new-mode.html):  Create an Inventory Class : Example using the new mode (Object.method)
