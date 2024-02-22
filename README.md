@@ -15,6 +15,7 @@
 
 - [01.Introduction](https://github.com/marc25219/javascript_basics/tree/main/01.Introduction)  
     - [1.Declaration&Types](https://github.com/marc25219/javascript_basics/blob/main/01.Introduction/1.Declaration%26Types.html):  Declaration of a variables and their types.
+ 
 - [02.Operators](https://github.com/marc25219/javascript_basics/tree/main/02.Operators)
     - [1.Arithmetic](https://github.com/marc25219/javascript_basics/blob/main/02.Operators/1.Arithmetic.html):  Basic operators: Addition, subtraction, division, multiplication, and power. Also, Increment and decrement operations (PRE-POST).
     - [2.Comparison](https://github.com/marc25219/javascript_basics/blob/main/02.Operators/2.Comparison.html):  Comparison (difference between == and ===)
