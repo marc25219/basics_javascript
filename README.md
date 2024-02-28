@@ -28,29 +28,29 @@
     - [2.Arrow-Function](https://github.com/marc25219/javascript_basics/blob/main/04.Functions/2.Arrow-Function.js):  Example returning a hello message using an arrow function
     - [3.Callback](https://github.com/marc25219/javascript_basics/blob/main/04.Functions/3.Callback.js):  Example of a callback function
 - [05.Classes](https://github.com/marc25219/javascript_basics/tree/main/05.Classes)
-    - [1.Old-mode](https://github.com/marc25219/javascript_basics/blob/main/05.Classes/1.old-mode.js):  Create an Inventory Class : Example using the old mode (Inventory.prototype.method)
-    - [2.New-mode](https://github.com/marc25219/javascript_basics/blob/main/05.Classes/2.new-mode.js):  Create an Inventory Class : Example using the new mode (Object.method)
+    - [1.Old-mode](https://github.com/marc25219/javascript_basics/blob/main/05.Classes/1.Old-mode.js):  Create an Inventory Class : Example using the old mode (Inventory.prototype.method)
+    - [2.New-mode](https://github.com/marc25219/javascript_basics/blob/main/05.Classes/2.New-mode.js):  Create an Inventory Class : Example using the new mode (Object.method)
 - [06.Loops](https://github.com/marc25219/javascript_basics/tree/main/06.Loops)
-    - [1.While](https://github.com/marc25219/javascript_basics/blob/main/06.Loops/1.while.js):  While loop : Example of an increment 0 to 10
-    - [2.Do-while](https://github.com/marc25219/javascript_basics/blob/main/06.Loops/2.do-while.js):  Do-While loop : Example of an increment 0 to 10
-    - [3.For](https://github.com/marc25219/javascript_basics/blob/main/06.Loops/3.for.js):  For loop : Example of an increment 0 to 10
-    - [4.Good-bad-performance](https://github.com/marc25219/javascript_basics/blob/main/06.Loops/4.good-bad-performance.js):  Loop time comparison : Example of how to reduce the access time of a bucle.
-    - [5.ForEach](https://github.com/marc25219/javascript_basics/blob/main/06.Loops/5.forEach.js):  forEach loop : It iterates all array items [normal, arrow function]
-    - [6.ForEach-object](https://github.com/marc25219/javascript_basics/blob/main/06.Loops/6.forEach-object.js):  forEach loop : It iterates the object attributtes [normal, arrow function]
+    - [1.While](https://github.com/marc25219/javascript_basics/blob/main/06.Loops/1.While.js):  While loop : Example of an increment 0 to 10
+    - [2.Do-while](https://github.com/marc25219/javascript_basics/blob/main/06.Loops/2.Do-while.js):  Do-While loop : Example of an increment 0 to 10
+    - [3.For](https://github.com/marc25219/javascript_basics/blob/main/06.Loops/3.For.js):  For loop : Example of an increment 0 to 10
+    - [4.Good-bad-performance](https://github.com/marc25219/javascript_basics/blob/main/06.Loops/4.Good-bad-performance.js):  Loop time comparison : Example of how to reduce the access time of a bucle.
+    - [5.ForEach](https://github.com/marc25219/javascript_basics/blob/main/06.Loops/5.ForEach.js):  forEach loop : It iterates all array items [normal, arrow function]
+    - [6.ForEach-object](https://github.com/marc25219/javascript_basics/blob/main/06.Loops/6.ForEach-object.js):  forEach loop : It iterates the object attributtes [normal, arrow function]
 - [07.Core_classes](https://github.com/marc25219/javascript_basics/tree/main/07.Core_classes)
-    - [1.Object](https://github.com/marc25219/javascript_basics/blob/main/07.Core_classes/1.object.js):  bjects : It manages objects (access, modify, comparison, etc)
-    - [2.Number](https://github.com/marc25219/javascript_basics/blob/main/07.Core_classes/2.number.js):  Number class : Examples of the types, declaration, conversions and Math class.
-    - [3.Array](https://github.com/marc25219/javascript_basics/blob/main/07.Core_classes/3.array.js):  Array class : Examples of the Declaration, functions (length, sort, pop, push, add, reverse, map, filter and slice)
-    - [4.String](https://github.com/marc25219/javascript_basics/blob/main/07.Core_classes/4.string.js):  String class : Examples of the Declaration, functions (charCodeAt, indexOf, subtring) and conversions.
+    - [1.Object](https://github.com/marc25219/javascript_basics/blob/main/07.Core_classes/1.Object.js):  bjects : It manages objects (access, modify, comparison, etc)
+    - [2.Number](https://github.com/marc25219/javascript_basics/blob/main/07.Core_classes/2.Number.js):  Number class : Examples of the types, declaration, conversions and Math class.
+    - [3.Array](https://github.com/marc25219/javascript_basics/blob/main/07.Core_classes/3.Array.js):  Array class : Examples of the Declaration, functions (length, sort, pop, push, add, reverse, map, filter and slice)
+    - [4.String](https://github.com/marc25219/javascript_basics/blob/main/07.Core_classes/4.String.js):  String class : Examples of the Declaration, functions (charCodeAt, indexOf, subtring) and conversions.
 - [08.Arrays](https://github.com/marc25219/javascript_basics/tree/main/08.Arrays)
-    - [1.Find](https://github.com/marc25219/javascript_basics/blob/main/08.Arrays/1.find.js):  Array find() : Examples using the find() function with an objects array.
-    - [2.Some](https://github.com/marc25219/javascript_basics/blob/main/08.Arrays/2.some.js):  Array some() : Examples using the some() function with an objects array.
-    - [3.Every](https://github.com/marc25219/javascript_basics/blob/main/08.Arrays/3.every.js):  Array every() : Examples using the every() function with an objects array.
-    - [4.Map](https://github.com/marc25219/javascript_basics/blob/main/08.Arrays/4.map.js):  Array map() : Examples using the map() function with an objects array.
-    - [5.Filter](https://github.com/marc25219/javascript_basics/blob/main/08.Arrays/5.filter.js):  Array filter() : Examples using the filter() function with an objects array.
-    - [6.Reduce](https://github.com/marc25219/javascript_basics/blob/main/08.Arrays/6.reduce.js):  Array reduce() : Examples using the reduce() function with an objects array.
+    - [1.Find](https://github.com/marc25219/javascript_basics/blob/main/08.Arrays/1.Find.js):  Array find() : Examples using the find() function with an objects array.
+    - [2.Some](https://github.com/marc25219/javascript_basics/blob/main/08.Arrays/2.Some.js):  Array some() : Examples using the some() function with an objects array.
+    - [3.Every](https://github.com/marc25219/javascript_basics/blob/main/08.Arrays/3.Every.js):  Array every() : Examples using the every() function with an objects array.
+    - [4.Map](https://github.com/marc25219/javascript_basics/blob/main/08.Arrays/4.Map.js):  Array map() : Examples using the map() function with an objects array.
+    - [5.Filter](https://github.com/marc25219/javascript_basics/blob/main/08.Arrays/5.Filter.js):  Array filter() : Examples using the filter() function with an objects array.
+    - [6.Reduce](https://github.com/marc25219/javascript_basics/blob/main/08.Arrays/6.Reduce.js):  Array reduce() : Examples using the reduce() function with an objects array.
 - [09.Closures](https://github.com/marc25219/javascript_basics/tree/main/09.Closures)
-    - [1.Closure](https://github.com/marc25219/javascript_basics/blob/main/09.Closures/1.closure.js):  Closure : Example of counter closure (increment, decrement and value)
+    - [1.Closure](https://github.com/marc25219/javascript_basics/blob/main/09.Closures/1.Closure.js):  Closure : Example of counter closure (increment, decrement and value)
 - [10.Async](https://github.com/marc25219/javascript_basics/tree/main/10.Async)
     - [1.Promises](https://github.com/marc25219/javascript_basics/blob/main/10.Async/1.Promises.js):  Promise : Example of a promise management.
     - [2.Async-Await](https://github.com/marc25219/javascript_basics/blob/main/10.Async/2.Async-Await.js):  Promise : Example of a Asinc-Await management. 
