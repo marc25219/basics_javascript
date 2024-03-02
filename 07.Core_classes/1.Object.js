@@ -1,9 +1,8 @@
 /*
  * Author: Marc Ciruelos Santos
  * Date: 19-02-2024
- * Description: Objects => It manages objects (access, modify, comparison, etc)
+ * Description: Objects => It manages objects (access, modify, comparison, optional chaining, etc)
  */
-
 
 const book = {
   title: "It",
@@ -50,6 +49,7 @@ let computer = {
     cpu: "Intel i7",
     gpu: "Nvidia RTX 4090",
   },
+  webCam: undefined,
 };
 
 console.log(computer.hardware.cpu);
@@ -64,3 +64,16 @@ console.log(car1.brand === car2.brand); // true
 
 const car3 = car1;
 console.log(car3 === car1); // true
+
+// Optional Chaining
+// Existing examples
+console.log(computer.brand); // true
+console.log("brand" in computer); // true
+
+// Not existing or undefined
+// Uncaught TypeError --> console.log(computer.price)
+console.log("webCam" in computer); // true, but it's undefined =(
+
+// Solution
+console.log(computer?.brand); // Dell
+console.log(computer?.webCam); // undefined
