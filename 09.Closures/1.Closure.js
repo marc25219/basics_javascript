@@ -1,7 +1,7 @@
 /*
  * Author: Marc Ciruelos Santos
  * Date: 21-02-2024
- * Description: Closure => Example of counter closure (increment, decrement and value)
+ * Description: Closure => Example 1: Counter (increment, decrement and value)
  */
 
 

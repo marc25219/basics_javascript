@@ -50,7 +50,9 @@
     - [5.Filter](https://github.com/marc25219/javascript_basics/blob/main/08.Arrays/5.Filter.js):  Array filter() : Examples using the filter() function with an objects array.
     - [6.Reduce](https://github.com/marc25219/javascript_basics/blob/main/08.Arrays/6.Reduce.js):  Array reduce() : Examples using the reduce() function with an objects array.
 - [09.Closures](https://github.com/marc25219/javascript_basics/tree/main/09.Closures)
-    - [1.Closure](https://github.com/marc25219/javascript_basics/blob/main/09.Closures/1.Closure.js):  Closure : Example of counter closure (increment, decrement and value)
+    - [1.Closure](https://github.com/marc25219/javascript_basics/blob/main/09.Closures/1.Closure.js):  Closure : Example 1: Counter (increment, decrement and value)
+    - [2.Closure](https://github.com/marc25219/javascript_basics/blob/main/09.Closures/2.Closure.js):  Closure : Example 2: Sale (getAmount, updateTotal)
+    - [3.Closure](https://github.com/marc25219/javascript_basics/blob/main/09.Closures/3.Closure.js):  Closure : Example 3: Addition
 - [10.Async](https://github.com/marc25219/javascript_basics/tree/main/10.Async)
     - [1.Promises](https://github.com/marc25219/javascript_basics/blob/main/10.Async/1.Promises.js):  Promise : Example of a promise management.
     - [2.Async-Await](https://github.com/marc25219/javascript_basics/blob/main/10.Async/2.Async-Await.js):  Promise : Example of a Asinc-Await management. 
