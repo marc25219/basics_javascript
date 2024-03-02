@@ -51,6 +51,7 @@
     - [4.Map](https://github.com/marc25219/javascript_basics/blob/main/08.Arrays/4.Map.js):  Array map() : Examples using the map() function with an objects array.
     - [5.Filter](https://github.com/marc25219/javascript_basics/blob/main/08.Arrays/5.Filter.js):  Array filter() : Examples using the filter() function with an objects array.
     - [6.Reduce](https://github.com/marc25219/javascript_basics/blob/main/08.Arrays/6.Reduce.js):  Array reduce() : Examples using the reduce() function with an objects array.
+    - [7.Object-TO-Array](https://github.com/marc25219/javascript_basics/blob/main/08.Arrays/7.Object-to-array.js):  Object to array : Using Object.keys(), Object.values() and Object.entries()
 - [09.Closures](https://github.com/marc25219/javascript_basics/tree/main/09.Closures)
     - [1.Closure](https://github.com/marc25219/javascript_basics/blob/main/09.Closures/1.Closure.js):  Example 1: Counter (increment, decrement and value)
     - [2.Closure](https://github.com/marc25219/javascript_basics/blob/main/09.Closures/2.Closure.js):  Example 2: Sale (getAmount, updateTotal)
