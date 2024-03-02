@@ -28,6 +28,7 @@
     - [2.Arrow-Function](https://github.com/marc25219/javascript_basics/blob/main/04.Functions/2.Arrow-Function.js):  Example returning a hello message using an arrow function
     - [3.Callback](https://github.com/marc25219/javascript_basics/blob/main/04.Functions/3.Callback.js):  Example of a callback function
     - [4.Recursive](https://github.com/marc25219/javascript_basics/blob/main/04.Functions/4.Recursive.js):  Example: Cooldown
+    - [5.Anonymouse](https://github.com/marc25219/javascript_basics/blob/main/04.Functions/5.Anonymouse.js):  Example of anonymouse function
 - [05.Classes](https://github.com/marc25219/javascript_basics/tree/main/05.Classes)
     - [1.Old-mode](https://github.com/marc25219/javascript_basics/blob/main/05.Classes/1.Old-mode.js):  Create an Inventory Class : Example using the old mode (Inventory.prototype.method)
     - [2.New-mode](https://github.com/marc25219/javascript_basics/blob/main/05.Classes/2.New-mode.js):  Create an Inventory Class : Example using the new mode (Object.method)
