@@ -1,6 +1,6 @@
 /*
  * Author: Marc Ciruelos Santos
- * Date: 21-02-2024
+ * Date: 02-03-2024
  * Description: Closure => Example 3: Addition
  */
 
