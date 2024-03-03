@@ -1,7 +1,7 @@
 /*
  * Author: Marc Ciruelos Santos
  * Date: 19-02-2024
- * Description: Objects => It manages objects (access, modify, comparison, optional chaining, etc)
+ * Description: Objects => It manages objects (access, modify, comparison, optional chaining, destructuring, etc)
  */
 
 const book = {
@@ -77,3 +77,16 @@ console.log("webCam" in computer); // true, but it's undefined =(
 // Solution
 console.log(computer?.brand); // Dell
 console.log(computer?.webCam); // undefined
+
+
+// Destructuring => Direct to the property
+// xx -> const brand = computer.brand
+
+const { brand } = computer; 
+const { hardware } = computer; 
+const { gpu } = computer.hardware; 
+
+console.log(brand)
+console.log(hardware)
+console.log(gpu)
+

@@ -40,7 +40,7 @@
     - [5.ForEach](https://github.com/marc25219/javascript_basics/blob/main/06.Loops/5.ForEach.js):  forEach loop : It iterates all array items [normal, arrow function]
     - [6.ForEach-object](https://github.com/marc25219/javascript_basics/blob/main/06.Loops/6.ForEach-object.js):  forEach loop : It iterates the object attributtes [normal, arrow function]
 - [07.Core_classes](https://github.com/marc25219/javascript_basics/tree/main/07.Core_classes)
-    - [1.Object](https://github.com/marc25219/javascript_basics/blob/main/07.Core_classes/1.Object.js):  bjects : It manages objects (access, modify, comparison, etc)
+    - [1.Object](https://github.com/marc25219/javascript_basics/blob/main/07.Core_classes/1.Object.js):  It manages objects (access, modify, comparison, optional chaining, destructuring, etc)
     - [2.Number](https://github.com/marc25219/javascript_basics/blob/main/07.Core_classes/2.Number.js):  Number class : Examples of the types, declaration, conversions and Math class.
     - [3.Array](https://github.com/marc25219/javascript_basics/blob/main/07.Core_classes/3.Array.js):  Array class : Examples of the Declaration, functions (length, sort, pop, push, add, reverse, map, filter and slice)
     - [4.String](https://github.com/marc25219/javascript_basics/blob/main/07.Core_classes/4.String.js):  String class : Examples of the Declaration, functions (charCodeAt, indexOf, subtring) and conversions.
